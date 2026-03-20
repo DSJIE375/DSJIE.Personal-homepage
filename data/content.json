@@ -1,0 +1,183 @@
+{
+    "site_links": [
+        {
+            "id": 1,
+            "title": "DSJIE-个人主页",
+            "url": "https:\/\/dsjie375.cn\/",
+            "image": "/images\/dsjie-logo.svg",
+            "meta": "WP博客"
+        },
+        
+        {
+            "id": 11,
+            "title": "欢迎加入你的友情链接",
+            "url": "mailto:dsjie375@qq.com",
+            "image": "\/images\/dsjie-logo.svg",
+            "meta": "点击上方邮箱发送邮件 主题为：【申请友情链接】，内容：网站标题、网站LOGO URL、网站描述、链接URL、"
+        }
+    ],
+    "home": {
+        "avatar": "\/images\/dsjie.png",
+        "quote_top": "科技不是高高在上而是服务于人民",
+        "quote_bottom": "花开花落终有时.花有重开日.人无再少年",
+        "social_links": [
+            {
+                "id": 1,
+                "icon": "fa fa-github",
+                "url": "https:\/\/github.com\/DSJIE375"
+            },
+            {
+                "id": 2,
+                "icon": "fa fa-qq",
+                "url": "https:\/\/qm.qq.com\/q\/zBHd9dMgs8"
+            },
+            {
+                "id": 4,
+                "icon": "fa fa-weixin",
+                "url": "https:\/\/work.weixin.qq.com\/kfid\/kfca7d7380d6770db87"
+            },
+            {
+                "id": 5,
+                "icon": "fa fa-envelope",
+                "url": "mailto:dsjie375@qq.com"
+            }
+        ],
+        "intro": "微信公众号： DSJIE工作室 感谢关注 love you"
+    },
+    "about": {
+        "info": [
+            {
+                "label": "名称",
+                "value": "DSJIE.",
+                "id": 1
+            },
+            {
+                "label": "年龄",
+                "value": "22",
+                "id": 2
+            },
+            {
+                "label": "性别",
+                "value": "男",
+                "id": 3
+            },
+            {
+                "label": "地址",
+                "value": "中国 广西壮族自治区 玉林市",
+                "id": 4
+            },
+            {
+                "label": "邮箱",
+                "value": "dsjie375@qq.com",
+                "id": 5
+            },
+            {
+                "label": "QQ",
+                "value": "2748859465",
+                "id": 6
+            },
+            {
+                "label": "学历",
+                "value": "大专",
+                "id": 7
+            },
+            {
+                "label": "专业",
+                "value": "计算机网络与应用",
+                "id": 8
+            },
+            {
+                "label": "性格",
+                "value": "#INFJ(内向、直觉、感情、判断)  #社牛 #胆小",
+                "id": 9
+            }
+        ],
+        "skills": [
+            {
+                "id": 1,
+                "name": "样样通样样松",
+                "value": 100
+            },
+            {
+                "id": 2,
+                "name": "敬请期待",
+                "value": 99
+            }
+        ],
+        "intro": "本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的使用和安装与卸载。\r\n\r\n精通CSS、JavaScript、PHP等单词的拼写。\r\n\r\n熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机。\r\n\r\n熟练路由器、光猫、交换机等网线插拔。\r\n\r\n以上内容纯属娱乐。\r\n\r\n专业出身（计算机网络与应用）以上内容均能从容面对，公司\/厂缺人可以联系我。"
+    },
+    "resume": {
+        "education": [
+            {
+                "id": 1,
+                "title": "中学三年",
+                "date": "2017-2020",
+                "text": "中学三年有两年半基本都是在混日子（不是很喜欢听这些无聊的科目）"
+            },
+            {
+                "id": 2,
+                "title": "开启职高生涯",
+                "date": "2020-2025",
+                "text": "因为对计算机感兴趣来到这里，说不上很懂，样样通样样松，意思就是这么个意思"
+            }
+        ],
+        "experience": [
+            {
+                "id": 1,
+                "title": "HTML",
+                "date": "2015",
+                "position": "自学",
+                "text": "由于当时的我惊奇的发现浏览器上的内容是可以修改的，于是我就开始研究上了"
+            },
+            {
+                "id": 2,
+                "title": "CSS",
+                "date": "2020",
+                "position": "网页优化",
+                "text": "上了职校学到了一点鸡毛蒜皮，又开始我的网站之旅了"
+            },
+            {
+                "id": 3,
+                "title": "PHP",
+                "date": "2022-2025",
+                "position": "项目开发",
+                "text": "学校开始教到PHP之后我就又开始研究我的网站了，直到毕业也是搞定了，项目名：《电子相册》(没部署）"
+            },
+            {
+                "id": 4,
+                "title": "尽请期待",
+                "date": "2025.9",
+                "position": "",
+                "text": ""
+            }
+        ]
+    },
+    "gallery": [
+        {
+            "id": 1,
+            "title": "LOGO",
+            "description": "在用头像",
+            "image": "\/images\/dsjie.png",
+            "link": "\/images\/dsjie.png"
+        }
+    ],
+    "contact": {
+        "details": [
+            {
+                "id": 1,
+                "icon": "flaticon-signs",
+                "value": "广西壮族自治区 玉林市"
+            },
+            {
+                "id": 2,
+                "icon": "flaticon-smartphone",
+                "value": "(+86) 191-****-8401<br>(+86) 159-****-0547"
+            },
+            {
+                "id": 3,
+                "icon": "flaticon-note-1",
+                "value": "dsjie375@qq.com<br>email@dsjie375.cn"
+            }
+        ]
+    }
+}
